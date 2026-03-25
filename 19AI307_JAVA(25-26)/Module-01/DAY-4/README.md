@@ -28,8 +28,8 @@ To write a Java program that reads an array of integers and sorts the elements i
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: DHEEBASH SAI R
-RegisterNumber:  212224040075
+Developed by: HEMANTH KUMAR S
+RegisterNumber:  212224040115
 */
 ```
 
